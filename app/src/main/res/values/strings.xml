@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">multiActivity_for_UI_test</string>
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="Button3">Button3</string>
+    <string name="Button4">Button4</string>
+    <string name="subButton4">finish4</string>
+    <string name="subButton3">finish3</string>
+    <string name="subButton2">finish2</string>
+    <string name="subButton1">finish1</string>
+    <string name="sub1">sub1</string>
+    <string name="sub2">sub2</string>
+    <string name="sub3">sub3</string>
+    <string name="sub4">sub4</string>
+</resources>
