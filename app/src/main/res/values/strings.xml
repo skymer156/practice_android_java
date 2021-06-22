@@ -12,4 +12,6 @@
     <string name="sub2">sub2</string>
     <string name="sub3">sub3</string>
     <string name="sub4">sub4</string>
+    <string name="checkbox_1">CheckBox</string>
+    <string name="checkbox_2">CheckBox</string>
 </resources>
